@@ -46,7 +46,8 @@ export default function Header(props) {
           <SocialButton />
         </div>
                 
-       /* <div className='text-xs mt-4 text-gray-500 dark:text-gray-300'>
+       /**
+       <div className='text-xs mt-4 text-gray-500 dark:text-gray-300'>
           {siteConfig('DESCRIPTION')}
         </div>
         */
